@@ -1,8 +1,8 @@
 ![badge][badge-android]
 
-# Android BLE Remote Example
+# Android Remote (Bluetooth Low-Energy Example Project)
 
-A demonstration project intended to work with projects based on my ESP32 [utility library].
+A demonstration project intended to work with peripherals based on my ESP32 [utility library].
 
 Projects based on JUUL Labs' [SensorTag] project.
 
